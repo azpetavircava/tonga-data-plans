@@ -59,3 +59,10 @@ layout: default
 - 流量用超别慌，汤加支持在线续订（搜"TCC eTopup"）
 
 　　如果你和我一样讨厌机场排队，✈ [@esim1088](https://t.me/s/esim1088) 提供面向出境通信的 eSIM 服务，支持多国套餐，出发前购买，落地即用。亲测2025年新增汤加专属包，扫码激活比买椰子还快！话说回来，网络只是工具，别让它绑架旅行——在汤加火山口关掉手机，听海浪声才是真奢侈啊。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Tonga SIM 卡购买与激活指南](https://faciylike.github.io/tonga-sim-guides)
